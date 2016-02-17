@@ -22,5 +22,5 @@ Results
 
 
  Note
-> Source code mainly comes from **"OpenCV By Example" ** book.  
+> Source code mainly comes from **OpenCV By Example** book.  
 > I only add and change a little code so that the demo can run without any error.
