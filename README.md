@@ -2,7 +2,6 @@ Steps to build
 ==============
 
     $ tar -zxvf data.tar.gz
-    # make a build folder
     $ mkdir build
     $ cd build
     $ cmake ..
